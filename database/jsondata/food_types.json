@@ -1,0 +1,24 @@
+[{
+    "type": "Desayuno", 
+    "user_created_id": 1, 
+    "user_deleted_id": 1, 
+    "user_updated_id": 1
+},                                         
+{
+    "type": "Almuerzo", 
+    "user_created_id": 1, 
+    "user_deleted_id": 1, 
+    "user_updated_id": 1
+},                                         
+{
+    "type": "Cena", 
+    "user_created_id": 1, 
+    "user_deleted_id": 1, 
+    "user_updated_id": 1
+},                                             
+{
+    "type": "MiniBar", 
+    "user_created_id": 1, 
+    "user_deleted_id": 1, 
+    "user_updated_id": 1
+}]

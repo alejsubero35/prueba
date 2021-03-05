@@ -1,0 +1,99 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 01/08/2016 09:23
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-bath:before { content: "\f100"; }
+.flaticon-bathtub:before { content: "\f101"; }
+.flaticon-bed:before { content: "\f102"; }
+.flaticon-bed-1:before { content: "\f103"; }
+.flaticon-bell-boy:before { content: "\f104"; }
+.flaticon-bell-boy-1:before { content: "\f105"; }
+.flaticon-bell-boy-2:before { content: "\f106"; }
+.flaticon-casino:before { content: "\f107"; }
+.flaticon-check-in:before { content: "\f108"; }
+.flaticon-cleaner:before { content: "\f109"; }
+.flaticon-delivery:before { content: "\f10a"; }
+.flaticon-guest:before { content: "\f10b"; }
+.flaticon-guest-1:before { content: "\f10c"; }
+.flaticon-lift:before { content: "\f10d"; }
+.flaticon-maid:before { content: "\f10e"; }
+.flaticon-maid-1:before { content: "\f10f"; }
+.flaticon-maid-2:before { content: "\f110"; }
+.flaticon-maid-3:before { content: "\f111"; }
+.flaticon-maids:before { content: "\f112"; }
+.flaticon-room-service:before { content: "\f113"; }
+.flaticon-shower:before { content: "\f114"; }
+.flaticon-staff:before { content: "\f115"; }
+.flaticon-staff-1:before { content: "\f116"; }
+.flaticon-staff-2:before { content: "\f117"; }
+.flaticon-staff-3:before { content: "\f118"; }
+.flaticon-stairs:before { content: "\f119"; }
+.flaticon-taxi:before { content: "\f11a"; }
+.flaticon-toilet:before { content: "\f11b"; }
+.flaticon-waiter:before { content: "\f11c"; }
+.flaticon-wake-up:before { content: "\f11d"; }
+    
+    $font-Flaticon-bath: "\f100";
+    $font-Flaticon-bathtub: "\f101";
+    $font-Flaticon-bed: "\f102";
+    $font-Flaticon-bed-1: "\f103";
+    $font-Flaticon-bell-boy: "\f104";
+    $font-Flaticon-bell-boy-1: "\f105";
+    $font-Flaticon-bell-boy-2: "\f106";
+    $font-Flaticon-casino: "\f107";
+    $font-Flaticon-check-in: "\f108";
+    $font-Flaticon-cleaner: "\f109";
+    $font-Flaticon-delivery: "\f10a";
+    $font-Flaticon-guest: "\f10b";
+    $font-Flaticon-guest-1: "\f10c";
+    $font-Flaticon-lift: "\f10d";
+    $font-Flaticon-maid: "\f10e";
+    $font-Flaticon-maid-1: "\f10f";
+    $font-Flaticon-maid-2: "\f110";
+    $font-Flaticon-maid-3: "\f111";
+    $font-Flaticon-maids: "\f112";
+    $font-Flaticon-room-service: "\f113";
+    $font-Flaticon-shower: "\f114";
+    $font-Flaticon-staff: "\f115";
+    $font-Flaticon-staff-1: "\f116";
+    $font-Flaticon-staff-2: "\f117";
+    $font-Flaticon-staff-3: "\f118";
+    $font-Flaticon-stairs: "\f119";
+    $font-Flaticon-taxi: "\f11a";
+    $font-Flaticon-toilet: "\f11b";
+    $font-Flaticon-waiter: "\f11c";
+    $font-Flaticon-wake-up: "\f11d";

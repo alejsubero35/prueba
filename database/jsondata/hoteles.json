@@ -1,0 +1,63 @@
+[
+    {
+        "rif": "j-25698741", 
+        "logo": "Business Intelligence.jpg", 
+        "name": "HOTEL CENTRO LIDO CARACAS", 
+        "address": "Av. Francisco de Miranda, Centro Lido, Torre A, Piso 07, Ofic. 70-A. Urb. El Rosal, Caracas. Edo. Miranda.", 
+        "web_site": "https://www.lidotel.com/", 
+        "img_reservation": "0",
+        "telephone": "02124569874", 
+        "banner_home": "como-el-business-intelligence-aumenta-las-ganancias-de-tu-hotel-940x510.jpeg",
+        
+    }, 
+    {
+        "rif": "J-29439693-3", 
+        "logo": "logo-lidotel.png", 
+        "name": "Lidotel Hotel Boutique Margarita C.A", 
+        "address": "Av. Jovito Villalba Edif. LIDOTEL margarita Piso 1 Local 1 Sector Pampatar, Estado Nueva Esparta.", 
+        "web_site": "https://www.lidotel.com/", 
+        "img_reservation": "0",
+        "telephone": "02124569874", 
+        "banner_home": "banner_lidotel_caracas.png"
+    },                                                        
+    {
+        "rif": "J-30494835-2", 
+        "logo": "logo-lidotel.png", 
+        "name": "Lidotel Hotel Boutique San Cristobal", 
+        "address": "Av. Francisco de Miranda, Centro Lido, Torre A, Piso 07, Ofic. 70-A. Urb. El Rosal, Caracas. Edo. Miranda.", 
+        "web_site": "https://www.lidotel.com/", 
+        "img_reservation": "0",
+        "telephone": "02124569874", 
+        "banner_home": "banner_lidotel_caracas.png"
+    },                                               
+    {
+        "rif": "J-30494835-2", 
+        "logo": "logo-lidotel.png", 
+        "name": "Lidotel Hotel Boutique Barquisimeto C.A", 
+        "address": "Av. Francisco de Miranda, Centro Lido, Torre A, Piso 07, Ofic. 70-A. Urb. El Rosal, Caracas. Edo. Miranda.", 
+        "web_site": "https://www.lidotel.com/", 
+        "img_reservation": "0",
+        "telephone": "02124569874", 
+        "banner_home": "banner_lidotel_caracas.png"
+    },                                            
+    {
+        "rif": "J-30494835-2", 
+        "logo": "logo-lidotel.png", 
+        "name": "Lidotel Hotel Boutique Valencia C.A", 
+        "address": "Av. Francisco de Miranda, Centro Lido, Torre A, Piso 07, Ofic. 70-A. Urb. El Rosal, Caracas. Edo. Miranda.", 
+        "web_site": "https://www.lidotel.com/", 
+        "img_reservation": "0",
+        "telephone": "02124569874", 
+        "banner_home": "banner_lidotel_caracas.png"
+    },                                                
+    {
+        "rif": "J-30494835-2", 
+        "logo": "logo-lidotel.png", 
+        "name": "HOTEL CENTRO LIDO Paraguaná", 
+        "address": "Av. Francisco de Miranda, Centro Lido, Torre A, Piso 07, Ofic. 70-A. Urb. El Rosal, Caracas. Edo. Miranda.", 
+        "web_site": "https://www.lidotel.com/", 
+        "img_reservation": "0",
+        "telephone": "02124569874", 
+        "banner_home": "banner_lidotel_caracas.png"
+    }
+]
